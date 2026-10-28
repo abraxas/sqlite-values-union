@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-values-union">sqlite-values-union</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-values-union"><strong>https://abraxaslabs.tech/research/sqlite-values-union</strong></a>
+</p>
+
 
 # sqlite-values-union
 
